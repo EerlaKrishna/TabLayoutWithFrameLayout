@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TabLayoutWithFrameLayout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Hello Home fragment</string>
+    <string name="java_fragment">Hello Java fragment</string>
+    <string name="android_fragment">Hello Android fragment</string>
+    <string name="kotlin_fragment">Hello Kotlin fragment</string>
+</resources>
